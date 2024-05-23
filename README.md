@@ -1,4 +1,4 @@
-# FurniReality
+# FurniReality by ourteam
 
 Furnireality is web application that allows users to view 3D models in an Augmented Reality scene.
 
